@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/678996912186216626
+creation_time: 1750375404315
+experiment_id: '678996912186216626'
+last_update_time: 1750375404315
+lifecycle_stage: active
+name: behavior-classifier

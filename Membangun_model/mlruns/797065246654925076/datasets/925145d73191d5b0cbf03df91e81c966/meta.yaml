@@ -1,0 +1,12 @@
+digest: 42b7ae06
+name: dataset
+profile: '{"num_rows": 2009, "num_elements": 14063}'
+schema: '{"mlflow_colspec": [{"type": "double", "name": "Time_spent_Alone", "required":
+  true}, {"type": "long", "name": "Stage_fear", "required": true}, {"type": "double",
+  "name": "Social_event_attendance", "required": true}, {"type": "double", "name":
+  "Going_outside", "required": true}, {"type": "long", "name": "Drained_after_socializing",
+  "required": true}, {"type": "double", "name": "Friends_circle_size", "required":
+  true}, {"type": "double", "name": "Post_frequency", "required": true}]}'
+source: '{"tags": {"mlflow.user": "asus", "mlflow.source.name": "modelling.py", "mlflow.source.type":
+  "LOCAL", "mlflow.source.git.commit": "582b4d8a021daae843abad2da9e8e445724f9251"}}'
+source_type: code

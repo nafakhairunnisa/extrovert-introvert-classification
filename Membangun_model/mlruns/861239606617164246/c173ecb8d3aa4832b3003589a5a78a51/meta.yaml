@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/861239606617164246/c173ecb8d3aa4832b3003589a5a78a51/artifacts
+end_time: 1750184808267
+entry_point_name: ''
+experiment_id: '861239606617164246'
+lifecycle_stage: active
+run_id: c173ecb8d3aa4832b3003589a5a78a51
+run_name: RF_Tuned
+run_uuid: c173ecb8d3aa4832b3003589a5a78a51
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750184788233
+status: 3
+tags: []
+user_id: asus

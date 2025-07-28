@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/c1a9750e764b4579b635bee3f710c44e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c1a9750e764b4579b635bee3f710c44e
+run_name: awesome-stag-214
+run_uuid: c1a9750e764b4579b635bee3f710c44e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750083407336
+status: 1
+tags: []
+user_id: asus

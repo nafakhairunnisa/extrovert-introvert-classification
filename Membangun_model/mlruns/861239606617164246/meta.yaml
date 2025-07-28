@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/861239606617164246
+creation_time: 1750181650724
+experiment_id: '861239606617164246'
+last_update_time: 1750181650724
+lifecycle_stage: active
+name: behavior-classifier-tuning
